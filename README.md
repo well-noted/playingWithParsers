@@ -29,21 +29,22 @@
 * Selective widget refresh for better performance
 
 ## Features of the Enhanced Video Widget
-• **Position saving** - Automatically saves video playback position
-• **Timecode restoration** - Jumps to saved timestamp when video is reloaded
-• **Enhanced scrubbing** - Provides better control when navigating through video
-• **Buffer visualization** - Visual display of buffered regions for smoother seeking
-• **Smart seeking** - Jumps to closest buffered region for better playback experience
-• **Keyboard shortcuts** - Arrow keys for navigation and space bar for play/pause
-• **Progress tracking** - Visual indicator of current position in video
-• **Prebuffering support** - Fetches entire video content for consistent scrubbing
-• **Position indicators** - On-screen display showing jumped-to positions
-• **Multiple position restoration attempts** - Ensures reliable position restoration
-• **Periodic position saving** - Saves position every 30 seconds during playback
-• **Debug functionality** - Double-click for debugging information
-• **Custom styling options** - Configurable video appearance
-• **Source flexibility** - Supports various video source types including data URIs
-• **Full browser compatibility** - Works across different web browsers
+* **Position saving** - Automatically saves video playback position
+* **Timecode restoration** - Jumps to saved timestamp when video is reloaded
+* **Enhanced scrubbing** - Provides better control when navigating through video
+* **Buffer visualization** - Visual display of buffered regions for smoother seeking
+* **Smart seeking** - Jumps to closest buffered region for better playback experience
+* **Keyboard shortcuts** - Arrow keys for navigation and space bar for play/pause
+* **Progress tracking** - Visual indicator of current position in video
+* **Prebuffering support** - Fetches entire video content for consistent scrubbing
+* **Position indicators** - On-screen display showing jumped-to positions
+* **Multiple position restoration attempts** - Ensures reliable position restoration
+* **Periodic position saving** - Saves position every 30 seconds during playback
+* **Debug functionality** - Double-click for debugging information
+* **Custom styling options** - Configurable video appearance
+* **Source flexibility** - Supports various video source types including data URIs
+* **Full browser compatibility** - Works across different web browsers
+
 
 _____________________________________________________________________________________________________________________
 
